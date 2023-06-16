@@ -1,0 +1,16 @@
+.fact {
+  width: 90%;
+  height: 100%;
+  padding: 5%;
+  padding-top: 0%;
+}
+
+.fact p {
+  font-size: 3rem;
+  font-weight: 300;
+}
+
+.fact h1 {
+  font-size: 5rem;
+  text-align: center;
+}
